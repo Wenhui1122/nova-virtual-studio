@@ -1,0 +1,13 @@
+{
+  "objects": 310,
+  "vertices": 5304,
+  "triangles": 9368,
+  "checks": [
+    "finite coordinates",
+    "valid indices",
+    "nondegenerate faces",
+    "closed edge topology",
+    "positive signed volume"
+  ],
+  "max_runtime_tested": false
+}
